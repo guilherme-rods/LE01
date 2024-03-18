@@ -23,6 +23,7 @@ public class Programa {
         Ex17.executar(args);
         Ex18.executar(args);
         Ex19.executar(args);
+        Ex20.executar(args);
         
     }
 
