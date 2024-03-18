@@ -16,6 +16,7 @@ public class Programa {
         Ex10.executar(args);
         Ex11.executar(args);
         Ex12.executar(args);
+        Ex13.executar(args);
         
     }
 
