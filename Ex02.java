@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex02 {
 
-    public static void main(String[] args){
+    public static void executar(String[] args){
 
         System.out.println("Exercício 02:");
 
