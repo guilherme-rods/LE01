@@ -12,7 +12,7 @@ public class Ex17 {
 
     public static void executar(String[] args) {
         
-        System.out.println("Exercício 16:");
+        System.out.println("Exercício 17:");
 
         Scanner leitor = new Scanner(System.in);
 
